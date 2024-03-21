@@ -5,7 +5,7 @@
              Title="NovoProduto">
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Salvar" />
+        <ToolbarItem Text="Salvar" Clicked="ToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
 
     <ContentPage.Content>
